@@ -1,0 +1,2 @@
+# ExcelOperation
+closedXMLを使ってエクセルで帳票的なものを作る
