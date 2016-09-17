@@ -1,0 +1,36 @@
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.csproj.ResolveComReference.cache
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.csprojResolveAssemblyReference.cache
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.Form1.resources
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.Properties.Resources.resources
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.csproj.GenerateResource.Cache
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\bin\x64\Debug\ExcelOperation.exe
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\bin\x64\Debug\ExcelOperation.pdb
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\bin\x64\Debug\ClosedXML.dll
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\bin\x64\Debug\DocumentFormat.OpenXml.dll
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\bin\x64\Debug\ClosedXML.xml
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.exe
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.pdb
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\obj\x64\Debug\ExcelOperation.csproj.ResolveComReference.cache
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\obj\x64\Debug\ExcelOperation.exe
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\obj\x64\Debug\ExcelOperation.pdb
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\bin\x64\Debug\ExcelOperation.exe
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\bin\x64\Debug\ExcelOperation.pdb
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\bin\x64\Debug\ClosedXML.dll
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\bin\x64\Debug\DocumentFormat.OpenXml.dll
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\bin\x64\Debug\ClosedXML.xml
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\obj\x64\Debug\ExcelOperation.csprojResolveAssemblyReference.cache
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\obj\x64\Debug\ExcelOperation.Form1.resources
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\obj\x64\Debug\ExcelOperation.Properties.Resources.resources
+X:\00_自作補助ツール\ExcelOperation - コピー\ExcelOperation\obj\x64\Debug\ExcelOperation.csproj.GenerateResource.Cache
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.csproj.ResolveComReference.cache
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.exe
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.pdb
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.Form1.resources
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.Properties.Resources.resources
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\obj\x64\Debug\ExcelOperation.csproj.GenerateResource.Cache
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\bin\x64\Debug\ExcelOperation.exe
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\bin\x64\Debug\ExcelOperation.pdb
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\bin\x64\Debug\ClosedXML.dll
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\bin\x64\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Luke\Desktop\ExcelOperation\ExcelOperation\bin\x64\Debug\ClosedXML.xml

@@ -1,0 +1,12 @@
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\Debug\ExcelOperation.csproj.ResolveComReference.cache
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\Debug\ExcelOperation.Form1.resources
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\Debug\ExcelOperation.Properties.Resources.resources
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\Debug\ExcelOperation.csproj.GenerateResource.Cache
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\bin\Debug\ExcelOperation.exe
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\bin\Debug\ExcelOperation.pdb
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\bin\Debug\ClosedXML.dll
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\bin\Debug\DocumentFormat.OpenXml.dll
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\bin\Debug\ClosedXML.xml
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\Debug\ExcelOperation.exe
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\Debug\ExcelOperation.pdb
+X:\00_自作補助ツール\ExcelOperation\ExcelOperation\obj\Debug\ExcelOperation.csprojResolveAssemblyReference.cache
